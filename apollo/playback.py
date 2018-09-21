@@ -67,7 +67,7 @@ def get_play_time():
     return float(t)
 
 
-def get_current_track_location():
+def get_current_track_file():
     """ Get the path to the current track.
 
     :return: the path (bytes)
